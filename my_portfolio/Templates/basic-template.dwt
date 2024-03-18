@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>About Me</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<style>
+	
+</style>
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="container">
+  <header>
+  </header>
+  <!-- TemplateBeginEditable name="navigation" -->
+  <nav>
+    <ul>
+      <li><a href="../pages/about.html">About</a></li>
+      <li><a href="../pages/blog.html">Blog</a></li>
+      <li><a href="../pages/gallery.html">Gallery</a></li>
+      <li><a href="../pages/contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="main-content" -->
+  <aside>
+    <h3>Here are some navigation links!&nbsp;</h3>
+    <ul style="text-align: left;">
+      <li><a href="../pages/about.html">About</a></li>
+      <li><a href="../pages/blog.html">Blog</a></li>
+      <li><a href="../pages/gallery.html">Gallery</a></li>
+      <li><a href="../pages/contact.html">Contact</a></li>
+    </ul>
+  </aside>
+  <main>
+	  <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="footer" -->
+  <footer>
+    <p>Contact me!</p>
+    <p>Telephone link: <a href="tel:333-555-4444">333-555-4444</a> || Email link: <a href="mailto:abc123example@example.com">abc123example@example.com</a></p>
+  </footer>
+  <!-- TemplateEndEditable --></div>
+</body>
+</html>
